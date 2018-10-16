@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="nama_lengkap">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="silahkan_isi_form_di_bawah_ini">Isi formulir untuk mendaftar sebagai pengguna</string>
+    <string name="button">SET LANGUAGE</string>
+    <string name="button3">SUBMIT</string>
+    <string name="ket">I Have read agree the term</string>
+</resources>

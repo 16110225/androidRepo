@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registrazione</string>
+    <string name="nama_lengkap">Nome e cognome</string>
+    <string name="email">Indirizzo email</string>
+    <string name="password">Parola d\'ordine</string>
+    <string name="phone">Telefono</string>
+    <string name="silahkan_isi_form_di_bawah_ini">Compila il modulo per registrarti come utente</string>
+    <string name="button">SET LANGUAGE</string>
+    <string name="button3">SOTTOSCRIVI</string>
+    <string name="ket">Ho letto il termine</string>
+</resources>

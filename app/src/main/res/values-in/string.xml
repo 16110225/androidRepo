@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daftar</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Alamat Email</string>
+    <string name="password">sandi</string>
+    <string name="phone">telepone</string>
+    <string name="silahkan_isi_form_di_bawah_ini">Compila il modulo per registrarti come utente</string>
+    <string name="button">SET LANGUAGE</string>
+    <string name="button3">SOTTOSCRIVI</string>
+    <string name="ket">Ho letto il termine</string>
+</resources>
